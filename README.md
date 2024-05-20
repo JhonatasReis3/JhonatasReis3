@@ -6,10 +6,12 @@
 ##
 ## Tecnologias
 <div style="display:inline_block"> </br>
-  <img alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt = "React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt = "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt = "Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt = "Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-35EDE7?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt = "React" src="https://img.shields.io/badge/React-35EDE7?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt = "SQL" src="https://img.shields.io/badge/MySQL-35EDE7?style=for-the-badge&logo=mysql&logoColor=black" />
+  <img alt = "Php" src="https://img.shields.io/badge/PHP-35EDE7?style=for-the-badge&logo=php&logoColor=black">
+  <img alt = "Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-35EDE7?style=for-the-badge&logo=tailwind-css&logoColor=black"/>
+  <img alt ="Dart" src="https://img.shields.io/badge/Dart-35EDE7?style=for-the-badge&logo=dart&logoColor=black"/>
+  <img alt ="Flutter" src="https://img.shields.io/badge/Flutter-35EDE7?style=for-the-badge&logo=flutter&logoColor=black"/>
 </div>
 Desenvolvedor web e mobile júnior, apaixonado por tecnologia e comprometido em conectar o máximo de pessoas possível através de soluções inovadoras.🔥
