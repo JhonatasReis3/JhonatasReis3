@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img alt="capa" src="https://cdn.discordapp.com/attachments/1078808081984655392/1242148973427298377/jhonatas_reis.png?ex=664cc8e1&is=664b7761&hm=cf0e0017cbec171e066783e49b61213282a9ebac450a65130c14f3aacc69aabf&">
+</div>
+
 ### Olá! Eu me chamo Jhonatas Reis 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programador.jhonatasreis@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatas-reis-77109330b/)
