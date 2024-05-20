@@ -9,7 +9,7 @@
 ##
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatasReis3&show_icons=true&theme=gotham)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasReis3&layout=compact&theme=gotham)
 
 
 ##
