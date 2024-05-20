@@ -7,7 +7,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-35EDE7?style=for-the-badge&logo=gmail&logoColor=black)](mailto:programador.jhonatasreis@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-35EDE7?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jhonatas-reis-77109330b/)
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatasReis3&show_icons=true&theme=gotham)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatasReis3&show_icons=true&theme=gotham)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham)
+
+
 ##
 ## Tecnologias
 <div style="display:inline_block"> </br>
