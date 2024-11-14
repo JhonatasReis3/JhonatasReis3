@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="capa" src="https://cdn.discordapp.com/attachments/1078808081984655392/1306666109495410800/jhonatas_reis.png?ex=67377f25&is=67362da5&hm=ed31e2306380e19d3b6d702c5ded2ec230fde047568baf7ff942887a775c0925&">
+  <img alt="capa" src="https://cdn.discordapp.com/attachments/1078808081984655392/1306667406256771145/jhonatas_reis.png?ex=6737805a&is=67362eda&hm=ab9364f6fe810aaa78228419d4d957ced0ca309e59e8d55f4b5516da334b2921&">
 </div>
 
 ### Olá! Eu me chamo Jhonatas Reis 👋
