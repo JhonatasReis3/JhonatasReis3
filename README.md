@@ -8,8 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-F2F2F2?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/jhonatas-reis-77109330b/)
 ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatasReis3&show_icons=true&theme=gotham)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasReis3&layout=compact&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatasReis3&show_icons=true&theme=graywhite )
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatasReis3&layout=compact&theme=graywhite )
 
 
 ##
